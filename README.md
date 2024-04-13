@@ -11,11 +11,11 @@ Instructors: Mark Butler, Peter Grabowski
 
 Team Members:
 
-  => Darya Likhareva
+    => Darya Likhareva
   
-  => Hamsini Sankaran
+    => Hamsini Sankaran
   
-  => Sivakumar Thiyagarajan
+    => Sivakumar Thiyagarajan
   
  Project Organization
  ├── README.md          <- The top-level README describing the project aims
