@@ -6,7 +6,9 @@ DATASCI 266: Natural Language Processing Final Project
 
 Semester: Spring 2024 
 
-Instructors: Mark Butler, Peter Grabowski
+Instructors: 
+    
+    Mark Butler, Peter Grabowski
 
 Team Members:
 
