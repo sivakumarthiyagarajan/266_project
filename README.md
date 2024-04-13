@@ -1,1 +1,1 @@
-# 266_project
+# University of California, Berkeley
