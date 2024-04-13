@@ -2,8 +2,7 @@
 
 DATASCI 266: Natural Language Processing Final Project 
 
-Empowering Interdisciplinary Research with 
-BERT-Based Models: A Computational Approach for Enhanced Knowledge Synthesis
+    Empowering Interdisciplinary Research with  BERT-Based Models: A Computational Approach for Enhanced Knowledge Synthesis
 
 Semester: Spring 2024 
 
