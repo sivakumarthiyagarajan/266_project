@@ -6,12 +6,16 @@ Empowering Interdisciplinary Research with
 BERT-Based Models: A Computational Approach for Enhanced Knowledge Synthesis
 
 Semester: Spring 2024 
+
 Instructors: Mark Butler, Peter Grabowski
+
 Team Members:
   => Darya Likhareva
+  
   => Hamsini Sankaran
+  
   => Sivakumar Thiyagarajan
-
+  
  Project Organization
  ├── README.md          <- The top-level README describing the project aims
  ├── KeyModel           <- The results of our primary model SciBERT-CNN with BERT topic modeling
