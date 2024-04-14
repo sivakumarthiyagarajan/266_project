@@ -7,15 +7,13 @@ This project  introduces an advanced novel approach using SciBERT and CNNs to sy
     
     2. Agriculture sciences (AGRI) 
     
-    3. Arts (ARTS)
+    3. Environmental Science (ENVI)
     
     4. Bio-chemistry (BIOC)
     
-    5. Decision Sciences (DECI) 
+    5. Medicine (MEDI)
     
-    6. Medicine (MEDI)
-    
-    7. Environmental Science (ENVI)
+    7. Material Science (MATE)
     
     8. Engineering (ENGI)
     
@@ -23,8 +21,21 @@ This project  introduces an advanced novel approach using SciBERT and CNNs to sy
     
     10. Sociology (SOCI)
 
-    11. Material Science (MATE)
+    11. Chemistry (CHEM) 
+    
+    12. Energy Studies (ENER) 
 
+    13. Pharmacology (PHAR) 
+
+    14. Immunology (IMMU) 
+
+    15. Physics (PHYS) 
+
+    16. Earth Sciences (EART) 
+
+    17. Computer Science (COMP) 
+
+    18. Chemical Engineering (CENG) 
 
 Data Pre-Processing:
 
@@ -43,5 +54,4 @@ Model Architecture:
 Out of all the experiments conducted, the integration of SciBERT with a Convolutional Neural Network (CNN) and BERT topic modeling yielded the most favorable results. This combination emerged as the superior approach in our quest to boost the performance of text classification tasks. The SciBERT-CNN with BERT topic modeling approach significantly outperformed other models, cementing its position as our architecture of choice for the detailed task at hand.
 ![architecture](https://github.com/sivakumarthiyagarajan/266_project/assets/120620926/8aa96a61-321e-4133-bad0-2408e7aa24ed)
 
-
-
+In the proposed system, we delineate a sophisticated architecture designed to enhance text classification efficacy through the harnessing of both SciBERT and convolutional neural network (CNN) methodologies. Our architecture utilizes SciBERT, fine-tuned on scientific literature, to capture contextual embeddings from the tokenized text. The  [CLS] token embeddings from SciBERT serve as a summary of the document's context and are fed into a CNN structure, which includes a convolutional layer followed by a max-pooling layer. This structure is specifically designed to capture and distill local contextual features from the embeddings.A dropout strategy is incorporated to prevent overfitting, ensuring that the model generalizes well to new, unseen data.The outputs from the CNN are passed through a dense layer to aid in high-level feature detection before being subjected to the final classification layer. The classification layer employs a sigmoid activation function to output probabilities for each of the target classes, enabling the model to perform multi-label classification. We further fine-tuned the SciBERT to align the model with the domain-specific characteristics of the Elsevier corpus. This process was essential to tailor the pre-trained model to the particular lexical and semantic features of the scientific text, optimizing performance for the classification task. A dropout strategy is incorporated to prevent overfitting, ensuring that the model generalizes well to new, unseen data.
