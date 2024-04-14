@@ -24,3 +24,8 @@ Team Members:
      ├── Experiments        <- The Experiments that our team conducted for multi label text classification  
          ├── Longformer
          ├── BERT
+
+     ├── EDA                <- This folder consists of the exploratory data analysis on our data
+ 
+
+     
