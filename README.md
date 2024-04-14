@@ -17,14 +17,14 @@ Team Members:
 
  Project Organization
  
- ├── README.md          <- The top-level README describing the project aims
+     ├── README.md          <- The top-level README describing the project aims
  
-   ├── KeyModel           <- The results of our primary model SciBERT-CNN with BERT topic modeling
+     ├── KeyModel           <- The results of our primary model SciBERT-CNN with BERT topic modeling
  
-   ├── Experiments        <- The Experiments that our team conducted for multi label text classification  
+     ├── Experiments        <- The Experiments that our team conducted for multi label text classification  
  
-       ├── Longformer
-       ├── BERT
+         ├── Longformer
+         ├── BERT
 
 
 Introduction:
