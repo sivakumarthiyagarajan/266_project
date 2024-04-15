@@ -17,7 +17,7 @@ Team Members:
 
  Project Organization
  
-     ├── README.md          <- The top-level README describing the project aims
+     ├── README.md          <- Details about the team, experiements notebooks and links to the paper & presentation
  
      ├── PrimaryModel       <- The results of our primary model SciBERT-CNN with BERT topic modeling 
  
